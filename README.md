@@ -1,3 +1,7 @@
+[![Build and test of Java Project](https://github.com/alonsomoros/ETSISI-EMS/actions/workflows/main.yml/badge.svg)](https://github.com/alonsomoros/ETSISI-EMS/actions/workflows/main.yml)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Pipeline de Integración Continua con GitHub Actions
 
 Repositorio para el laboratorio de CI con GitHub Actions
